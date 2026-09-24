@@ -1,6 +1,6 @@
 # Biswas IT Firm — Website Performance Optimization Demo
 
-A Laravel 12, Vue 3, Inertia.js and Vite demo for a technical performance audit. The homepage uses an editorial paper-and-cobalt art direction with a geometric poster illustration, asymmetrical capability tiles and a performance field note. The selected site is self-built, so the audit can be reproduced without claiming access to an unrelated client's production website.
+A Laravel 12, Vue 3, Inertia.js and Vite demo for a technical performance audit. The homepage uses a midnight slate art direction with a single periwinkle accent, an monochrome flowing-ribbon hero, asymmetrical capability tiles and a performance field note. The selected site is self-built, so the audit can be reproduced without claiming access to an unrelated client's production website.
 
 ## Project submission sections
 
