@@ -1,0 +1,2 @@
+<template><img :src="src" :srcset="srcset" :sizes="sizes" :alt="alt" :width="width" :height="height" loading="lazy" decoding="async" fetchpriority="low" class="block h-auto w-full object-cover" @load="loaded=true" :class="loaded?'opacity-100':'opacity-0'" /></template>
+<script setup>import { ref } from 'vue'; defineProps({src:String,srcset:String,sizes:String,alt:{type:String,default:''},width:{type:Number,default:800},height:{type:Number,default:500}}); const loaded=ref(false);</script>
